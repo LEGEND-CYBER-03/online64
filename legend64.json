@@ -1,6 +1,6 @@
 {
-    "serverstatus":"true",
-    "noticemode":"true",
+    "serverstatus":"false",
+    "noticemode":"false",
     "dataclearmode":"false",
     "servermeassage":"SERVER SLEEP NEVER ON NO FEEDBACK NEED !",
     "opentime":" Just wait",
